@@ -7,7 +7,6 @@ Ireland's freshwater ecosystems are under severe pressure, with nearly half (46%
 This challenge is particularly critical in the Shannon River Basin, Ireland's largest river system, which serves as a vital living laboratory for environmental, social, and economic activities. Spanning over 70% farmland—predominantly livestock grazing on pasture—the basin is central to water supply, biodiversity, agriculture, tourism, and cultural heritage. Traditional approaches often address water quality after contamination occurs, but preventing pollution at the source is now a top environmental priority. By leveraging space-enabled technologies, such as NASA Earth observation data and satellite imagery, innovative solutions can predict and mitigate runoff risks, protecting this essential resource and providing a blueprint for global water protection in similar systems like the Mississippi or Mekong River Basins.
 
 ## Problem Framing
-Problem Framing
 How can space-enabled technologies, including satellite imagery, weather prediction models, and geospatial analysis, be used to map high-risk farmlands bordering the Shannon River that are susceptible to runoff pollution, and develop a proactive information system that alerts farmers and land managers to impending heavy rainfall to prevent agricultural contaminants from entering waterways?
 
 ## Expected Outcomes
